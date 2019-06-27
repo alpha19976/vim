@@ -29,6 +29,7 @@ let g:autoformat_verbosemode=1
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'scrooloose/nerdtree'
 Plugin 'Chiel92/vim-autoformat'
 
 call vundle#end()            " required
