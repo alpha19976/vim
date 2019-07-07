@@ -40,7 +40,7 @@ filetype plugin indent on
 "Plug 'scrooloose/nerdtree'
 
 "call plug#end()
-syntax off
+
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 map <F5> :call CompileAndRun()<CR>
 func! CompileAndRun()
