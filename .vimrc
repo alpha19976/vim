@@ -6,7 +6,7 @@ set number
 set tabstop=4
 set nocompatible
 "set mouse=a
-filetype on
+"filetype on
 
 
 filetype plugin indent on    " required
