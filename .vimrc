@@ -13,7 +13,6 @@ colorscheme vscode_light
 set ignorecase
 
 
-
 filetype plugin indent on    " required
 "set t_Co=256  " make use of 256 terminal colors
 autocmd BufReadPost *
