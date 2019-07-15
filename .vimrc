@@ -6,8 +6,12 @@ set number
 set tabstop=4
 set nocompatible
 "set mouse=a
-"filetype on
+filetype on
+syntax on
+set t_Co=256
 colorscheme vscode_light
+set ignorecase
+
 
 
 filetype plugin indent on    " required
