@@ -7,6 +7,7 @@ set tabstop=4
 set nocompatible
 "set mouse=a
 "filetype on
+colorscheme vscode_light
 
 
 filetype plugin indent on    " required
