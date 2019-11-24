@@ -4,7 +4,7 @@
 
 hi clear
 
-let g:colors_name = "delek"
+let g:colors_name = "vscode_light"
 
 " Normal should come first
 hi Normal     guifg=Black  guibg=White
@@ -46,7 +46,7 @@ hi WildMenu   ctermfg=Black	   ctermbg=Yellow    guibg=Yellow guifg=Black
 " syntax highlighting
 hi Comment    cterm=NONE ctermfg=DarkGreen     gui=NONE guifg=red2
 hi Constant   cterm=NONE ctermfg=DarkRed	gui=NONE guifg=green3
-hi Identifier cterm=NONE ctermfg=DarkCyan    gui=NONE guifg=cyan4
+hi Identifier cterm=NONE ctermfg=21    gui=NONE guifg=cyan4
 hi PreProc    cterm=NONE ctermfg=21    gui=NONE guifg=magenta3
 hi Special    cterm=NONE ctermfg=DarkRed    gui=NONE guifg=deeppink
 hi Statement  cterm=NONE ctermfg=21	     gui=bold guifg=blue
