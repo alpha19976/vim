@@ -18,15 +18,15 @@ hi DiffDelete ctermfg=Blue	   ctermbg=LightCyan gui=bold guifg=Blue guibg=LightC
 hi DiffText   ctermbg=Red	   cterm=bold gui=bold guibg=Red
 hi Directory  ctermfg=21	   guifg=Blue
 hi ErrorMsg   ctermfg=White	   ctermbg=DarkRed  guibg=Red	    guifg=White
-hi FoldColumn ctermfg=21	   ctermbg=Grey     guibg=Grey	    guifg=21
-hi Folded     ctermbg=Grey	   ctermfg=21 guibg=LightGrey guifg=21
+hi FoldColumn ctermfg=21	   ctermbg=Grey     guibg=Grey	    guifg=Blue
+hi Folded     ctermbg=Grey	   ctermfg=21 guibg=LightGrey guifg=Blue
 hi IncSearch  cterm=reverse	   gui=reverse
 hi LineNr     ctermfg=Brown	   guifg=Brown
 hi ModeMsg    cterm=bold	   gui=bold
 hi MoreMsg    ctermfg=DarkGreen    gui=bold guifg=SeaGreen
 hi NonText    ctermfg=Blue	   gui=bold guifg=gray guibg=white
 hi Pmenu      guibg=LightBlue
-hi PmenuSel   ctermfg=White	   ctermbg=21  guifg=White  guibg=21
+hi PmenuSel   ctermfg=White	   ctermbg=21  guifg=White  guibg=Blue
 hi Question   ctermfg=DarkGreen    gui=bold guifg=SeaGreen
 if &background == "light"
     hi Search     ctermfg=NONE	   ctermbg=Yellow guibg=Yellow guifg=NONE
